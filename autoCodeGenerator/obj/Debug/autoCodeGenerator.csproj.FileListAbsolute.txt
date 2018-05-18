@@ -1,0 +1,9 @@
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\bin\Debug\autoCodeGenerator.exe.config
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\bin\Debug\autoCodeGenerator.exe
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\bin\Debug\autoCodeGenerator.pdb
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.csprojResolveAssemblyReference.cache
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.Form1.resources
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.Properties.Resources.resources
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.csproj.GenerateResource.Cache
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.exe
+H:\我的程序\C#\autoCodeGenerator\autoCodeGenerator\obj\Debug\autoCodeGenerator.pdb
